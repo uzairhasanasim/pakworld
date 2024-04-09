@@ -1,0 +1,128 @@
+@font-face {
+    font-family: roboto;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: BebasNeue;
+    src: url(fonts/BebasNeue-Regular.ttf);
+}
+
+#idlogin{
+font-family: roboto;
+font-size: larger;
+font-weight: 200;
+margin-right: auto;
+margin-left: auto;
+text-align: center;
+color: white;
+}
+#idemail{
+font-family: roboto;
+font-size: 150%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+color: white;
+
+}
+#id1{
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+#idpassword{
+    font-family: roboto;
+font-size: 150%;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+color: white;
+}
+#id2{
+    font-family: roboto;
+font-size: large;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+
+}
+.s2{
+    border-radius: 12px;
+    font-size: large;
+    text-align: center;
+    width: 250px;
+}
+.s1{
+    border-radius: 12px;
+    font-size: large;
+    text-align: center;
+}
+.s3{
+    margin-left: auto;
+    margin-right: auto;
+    
+    font-size: x-large;
+    background-color: rgb(225, 225, 0);
+    color: rgb(0, 0, 0);
+    border-radius: 16px;
+    border-color: rgb(255, 255, 0);
+    width: 350PX;
+    font-family: roboto;
+}
+#id3{
+    text-align: center;
+    border-radius: 12px;
+}
+body{
+    background-image: url(pexels-felix-mittermeier-956999.jpg);
+    margin: 0px;
+}
+#firstheading{
+    image-resolution: 1080*1900;
+    
+}
+.firstone{
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#nazi{
+font-family: BebasNeue;
+color:yellow;
+font-size: larger;
+text-decoration: solid;
+margin-top:0px;
+}
+.nazi{
+margin-top: 0px;
+}
+#contactid{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: right;
+    margin-top: 0px;
+    padding-right: 22px;
+    margin-top: 0px;
+    
+}
+.contact{
+    margin-top: 0px;
+    font-size: larger;
+    font-family: Roboto;
+}
+
+#contactid a{
+    color: rgb(255, 255, 0);
+}
+#id4{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color: yellow;
+    
+}
+#id4 a{
+    color: yellow;
+
+}

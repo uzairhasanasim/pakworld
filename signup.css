@@ -1,0 +1,122 @@
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: BebasNeue;
+    src: url(fonts/BebasNeue-Regular.ttf);
+}
+#webname{
+    color: yellow;
+    font-family: BebasNeue;
+    font-size: larger; 
+}
+body{
+    background-image:url(pexels-felix-mittermeier-956999.jpg);
+    
+}
+
+#head1name{
+    color: white;
+    font-family: roboto;
+    font-size: 150%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+#firstname{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 12px;
+    font-size: large;
+    font-family: roboto;
+}
+#firstname{
+    width: 250px;
+    border-radius: 12px;
+    padding: 5px;
+}
+#head2name{
+    color: white;
+    font-family: roboto;
+    font-size: 150%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#lastname{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 12px;
+    font-size: large;
+    font-family: roboto;
+}
+#lastname{
+    width: 250px;
+    border-radius: 12px;
+    padding: 5px;
+}
+#signup{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: large;
+    font-family: roboto;
+    color: white;
+}
+#email{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: white;
+    font-size: 150%;
+    font-family: roboto;
+}
+#boxemail{
+    font-size: large;
+    font-family: roboto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+#email1{
+    border-radius: 12px;
+    padding: 10px;
+    width: 350px;
+}
+#passwordhead{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-family: roboto;
+    font-size: 150%;
+    color: white;
+}
+#boxpassword{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+#password{
+    border-radius: 12px;
+    padding: 5px;
+    width: 250px;
+    font-size: larger;
+}
+#button{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 16px;
+    padding: 5px;
+    width: 250px;
+    font-size: larger;
+    background-color: yellow;
+    border-color: yellow;
+        
+}
